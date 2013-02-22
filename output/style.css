@@ -1,0 +1,73 @@
+/* *****************************
+ *
+ * Import file to Scss or Sass.
+ *
+ **************************** */
+/* *****************************
+ *
+ * Constant.
+ *
+ **************************** */
+/* *****************************
+ *
+ * extend classes.
+ *
+ **************************** */
+header, #container, footer {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px; }
+
+/* *****************************
+ *
+ * StyleSheet.
+ *
+ **************************** */
+html {
+  font-size: 83%; }
+
+#container {
+  margin-top: 30px; }
+
+footer {
+  margin-top: 30px; }
+
+/* *****************************
+ *
+ * header
+ *
+ **************************** */
+.editable h2, .editable h3, .editable h4, .editable h5, .editable h6 {
+  margin-top: 0.5em; }
+.editable h2 {
+  font-size: 250%; }
+.editable h3 {
+  font-size: 200%; }
+.editable h4 {
+  font-size: 150%; }
+.editable h5 {
+  font-size: 130%; }
+.editable h6 {
+  font-size: 110%; }
+
+/* *****************************
+ *
+ * paragraph
+ *
+ **************************** */
+.editable p {
+  margin-top: 1em;
+  line-height: 160%;
+  font-size: 100%; }
+
+/* *****************************
+ *
+ * button style
+ *
+ **************************** */
+.button {
+  padding: 8px 15px;
+  color: #515151;
+  text-decoration: none;
+  line-height: 130%;
+  background: #ccc; }

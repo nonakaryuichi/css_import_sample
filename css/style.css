@@ -1,1 +1,11 @@
+/* *****************************
+ *
+ * Import CSS file.
+ *
+ **************************** */
+@import url('common.css');
 @import url('module/header.css');
+@import url('module/container.css');
+@import url('module/footer.css');
+@import url('module/editable.css');
+@import url('module/button.css');
